@@ -1,0 +1,11 @@
+comment_id,comment,spam_prediction,spam_probability,risk_level,prompt_injection_detected,security_status
+COM001,"Win free money now, click here",1,68.21,MEDIUM,NO,MEDIUM RISK
+COM002,I really enjoyed this video,0,38.11,LOW,NO,LOW RISK
+COM003,Congratulations! You won a free prize,1,63.12,MEDIUM,NO,MEDIUM RISK
+COM004,This article is very useful,0,32.52,LOW,NO,LOW RISK
+COM005,"Limited offer, buy now",1,62.09,MEDIUM,NO,MEDIUM RISK
+COM006,Great explanation and helpful content,0,41.25,MEDIUM,NO,MEDIUM RISK
+COM007,Click this link to claim your reward,1,57.91,MEDIUM,NO,MEDIUM RISK
+COM008,I learned something new from this post,0,40.83,MEDIUM,NO,MEDIUM RISK
+COM009,Earn money quickly by clicking here,1,60.46,MEDIUM,NO,MEDIUM RISK
+COM010,This is a very informative tutorial,0,34.59,LOW,NO,LOW RISK
